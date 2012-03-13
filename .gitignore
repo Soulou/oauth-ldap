@@ -1,0 +1,8 @@
+# Vagrant
+.vagrant
+Vagrantfile
+
+# NPM
+node_modules/
+
+lib/
